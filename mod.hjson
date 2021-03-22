@@ -1,0 +1,8 @@
+name: "sunrise-java-mod"
+displayName: "Sunrise Project"
+author: "PixaxeOfPixie"
+main: "sunrise.SunriseJavaMod"
+description: "A jar mod."
+version: 1.0
+minGameVersion: 126
+
