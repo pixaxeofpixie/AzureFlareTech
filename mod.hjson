@@ -2,7 +2,7 @@ name: "sunrise-java-mod"
 displayName: "Sunrise Project"
 author: "PixaxeOfPixie"
 main: "sunrise.SunriseJavaMod"
-description: "A jar mod."
+description: "Braindustry sequel with some new ideas and concepts."
 version: 1.0
 minGameVersion: 126
 
