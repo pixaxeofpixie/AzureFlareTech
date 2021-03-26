@@ -27,7 +27,11 @@ public class SunriseJavaMod extends Mod{
 
     @Override
     public void loadContent(){
-		Log.info("Loading some example content.");
+        new ModItems().loadContent();
+        new ModUnitTypes().loadContent();
+	new ModFx().loadContent();
+	new ModPal().loadContent();
     }
+}
 
 }
