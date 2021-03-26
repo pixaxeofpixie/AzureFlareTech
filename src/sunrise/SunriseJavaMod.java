@@ -29,8 +29,6 @@ public class SunriseJavaMod extends Mod{
     public void loadContent(){
         new ModItems().loadContent();
         new ModUnitTypes().loadContent();
-	new ModFx().loadContent();
-	new ModPal().loadContent();
     }
 }
 
