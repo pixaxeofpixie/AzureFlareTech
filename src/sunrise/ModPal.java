@@ -4,7 +4,7 @@ import arc.graphics.Color;
 import arc.struct.Seq;
 import mindustry.graphics.Pal;
 
-public class SunriseColors {
+public class ModPal {
     static {
         Pal.class.getClass();
     }
