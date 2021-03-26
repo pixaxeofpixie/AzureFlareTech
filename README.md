@@ -1,5 +1,14 @@
-# ExampleJavaMod
-A Java Mindustry mod that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/ExampleKotlinMod).
+# Sunrise Project Mod
+Java mod with new material, unit branch, turrets and reactors.
+
+## TO DO
+- T1-T4 Sunrise units.
+- Morning Star duo laser.
+- Add mod units recipes to vanilla fabrics.
+- Add "Osorikari" meltdown like turret with large charge effect, 2 lasers and custom sounds.
+- Add Neptuinium synthesier with heat and simple rotator.
+
+--- 
 
 ## Building for Desktop Testing
 
