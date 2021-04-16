@@ -1,12 +1,10 @@
-# Sunrise Project Mod
+# Azure Flare Technologies
 Java mod with new material, unit branch, turrets and reactors.
 
 ## TO DO
 - T1-T4 Sunrise units.
-- Morning Star duo laser.
 - Add mod units recipes to vanilla fabrics.
-- Add "Osorikari" meltdown like turret with large charge effect, 2 lasers and custom sounds.
-- Add Neptuinium synthesier with heat and simple rotator.
+- Add meltdown like turret with large charge effect, 2 lasers and custom sounds.
 
 --- 
 
