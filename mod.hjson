@@ -1,8 +1,8 @@
 name: "sunrise-java-mod"
-displayName: "Sunrise Project"
+displayName: "Azure Flare Technologies"
 author: "PixaxeOfPixie"
-main: "sunrise.SunriseJavaMod"
-description: "Mod."
+main: "sunrise.AzureJavaMod"
+description: "Awesome mod."
 version: 1.0
 minGameVersion: 126
 

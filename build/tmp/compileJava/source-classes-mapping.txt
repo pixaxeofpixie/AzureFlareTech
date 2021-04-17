@@ -1,14 +1,26 @@
-sunrise/SunriseJavaMod.java
- sunrise.SunriseJavaMod
-sunrise/content/ModUnitTypes.java
- sunrise.content.ModUnitTypes
- sunrise.content.ModUnitTypes$1
- sunrise.content.ModUnitTypes$1$1
- sunrise.content.ModUnitTypes$1$1$1
-sunrise/content/ModItems.java
- sunrise.content.ModItems
- sunrise.content.ModItems$1
-sunrise/ModFx.java
- sunrise.ModFx
-sunrise/ModPal.java
- sunrise.ModPal
+sunrise/AzureFx.java
+ sunrise.AzureFx
+sunrise/AzurePal.java
+ sunrise.AzurePal
+sunrise/content/AzureBlocks.java
+ sunrise.content.AzureBlocks
+ sunrise.content.AzureBlocks$1
+sunrise/content/AzureItems.java
+ sunrise.content.AzureItems
+ sunrise.content.AzureItems$1
+sunrise/content/AzureUnitTypes.java
+ sunrise.content.AzureUnitTypes
+ sunrise.content.AzureUnitTypes$1
+ sunrise.content.AzureUnitTypes$1$1
+ sunrise.content.AzureUnitTypes$1$1$1
+ sunrise.content.AzureUnitTypes$1$2
+ sunrise.content.AzureUnitTypes$1$2$1
+ sunrise.content.AzureUnitTypes$2
+ sunrise.content.AzureUnitTypes$2$1
+ sunrise.content.AzureUnitTypes$2$1$1
+ sunrise.content.AzureUnitTypes$2$1$1$1
+ sunrise.content.AzureUnitTypes$2$2
+ sunrise.content.AzureUnitTypes$2$2$1
+ sunrise.content.AzureUnitTypes$Types
+sunrise/AzureJavaMod.java
+ sunrise.AzureJavaMod
