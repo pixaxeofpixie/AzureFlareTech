@@ -1,5 +1,7 @@
 # Azure Flare Technologies
-Java mod with new material, unit branch, turrets and reactors.
+Java mod with new content
+
+![lolwut](https://github.com/pixaxeofpixie/pictures/blob/main/AFTposter1.png?raw=true)
 
 ## TO DO
 - T1-T4 Sunrise units.
