@@ -4,9 +4,11 @@ Java mod with new content
 ![lolwut](https://github.com/pixaxeofpixie/pictures/blob/main/AFTposter1.png?raw=true)
 
 ## TO DO
-- T1-T4 Sunrise units.
-- Add mod units recipes to vanilla fabrics.
-- Add meltdown like turret with large charge effect, 2 lasers and custom sounds.
+- New turret
+- Some unit from "Syreni" branch
+- Change Morning Star attack
+
+
 
 --- 
 
