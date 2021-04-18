@@ -1,8 +1,8 @@
-name: "sunrise-java-mod"
+name: "azure-flare-tech"
 displayName: "Azure Flare Technologies"
 author: "PixaxeOfPixie"
 main: "sunrise.AzureJavaMod"
-description: "Awesome mod."
+description: "Mod that targets on visual effects and sprites."
 version: 1.0
 minGameVersion: 126
 

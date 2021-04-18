@@ -58,8 +58,8 @@ public class AzureFx {
             float m = i == 0 ? 1.0F : 0.5F;
             float rot = e.rotation + 180.0F;
             float w = 20.0F * e.fout() * m;
-            Drawf.tri(e.x, e.y, w, (30.0F + Mathf.randomSeedRange((long) e.id, 19.0F)) * m, rot);
-            Drawf.tri(e.x, e.y, w, 8.0F * m, rot);
+            Drawf.tri(e.x, e.y, w, (35.0F + Mathf.randomSeedRange((long) e.id, 19.0F)) * m, rot);
+            Drawf.tri(e.x, e.y, w, 15.0F * m, 60);
         }
 
     }),

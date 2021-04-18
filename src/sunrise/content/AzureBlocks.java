@@ -12,14 +12,14 @@ public class AzureBlocks implements ContentList {
 
     public static Block
 
-    mythryliumKiln;
+            azuriteKiln;
 
     public void load() {
 
-        mythryliumKiln = new GenericSmelter("mythrylium-kiln") {
+        azuriteKiln = new GenericSmelter("azurite-kiln") {
             {
-                this.localizedName = "Mythrylium Kiln";
-                this.description = "Make Mythrylium from Titanium and Thorium.";
+                this.localizedName = "Azurite Kiln";
+                this.description = "Make Azurite from Titanium and Thorium.";
                 this.health = 220;
                 this.liquidCapacity = 0;
                 this.size = 3;
@@ -31,7 +31,7 @@ public class AzureBlocks implements ContentList {
                 this.consumes.power(2.5f);
                 this.consumes.items(ItemStack.with(Items.thorium, 2, Items.titanium, 1));
                 this.requirements(Category.crafting, ItemStack.with(Items.plastanium, 80, Items.titanium, 100, Items.metaglass, 120, Items.silicon, 200, Items.graphite, 200));
-                this.outputItem = new ItemStack(AzureItems.mythrylium, 1);
+                this.outputItem = new ItemStack(AzureItems.azurite, 1);
             }
         };
 

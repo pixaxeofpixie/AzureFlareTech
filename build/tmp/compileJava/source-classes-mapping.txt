@@ -1,13 +1,5 @@
-sunrise/AzureFx.java
- sunrise.AzureFx
 sunrise/AzurePal.java
  sunrise.AzurePal
-sunrise/content/AzureBlocks.java
- sunrise.content.AzureBlocks
- sunrise.content.AzureBlocks$1
-sunrise/content/AzureItems.java
- sunrise.content.AzureItems
- sunrise.content.AzureItems$1
 sunrise/content/AzureUnitTypes.java
  sunrise.content.AzureUnitTypes
  sunrise.content.AzureUnitTypes$1
@@ -22,5 +14,13 @@ sunrise/content/AzureUnitTypes.java
  sunrise.content.AzureUnitTypes$2$2
  sunrise.content.AzureUnitTypes$2$2$1
  sunrise.content.AzureUnitTypes$Types
+sunrise/content/AzureBlocks.java
+ sunrise.content.AzureBlocks
+ sunrise.content.AzureBlocks$1
+sunrise/content/AzureItems.java
+ sunrise.content.AzureItems
+ sunrise.content.AzureItems$1
 sunrise/AzureJavaMod.java
  sunrise.AzureJavaMod
+sunrise/AzureFx.java
+ sunrise.AzureFx

@@ -182,7 +182,7 @@ public class AzureUnitTypes implements ContentList {
 
             this.weapons.add(
 
-                    new Weapon("nas-syreni-launcher") {
+                    new Weapon("azure-flare-tech-syreni-launcher") {
                         {
                             this.reload = 80;
                             this.x = 14;
@@ -204,7 +204,7 @@ public class AzureUnitTypes implements ContentList {
                                     this.drag = 0f;
                                     this.splashDamageRadius = 25f;
                                     this.splashDamage = 24f;
-                                    this.hitEffect =this.despawnEffect = Fx.explosion;
+                                    this.hitEffect =this.despawnEffect = AzureFx.syreniRocketExplosion;
                                     this.homingPower = 0.2f;
                                     this.lightningDamage = 10f;
                                     this.lightning = 3;
@@ -230,7 +230,7 @@ public class AzureUnitTypes implements ContentList {
                                         this.drag = 0f;
                                         this.splashDamageRadius = 25f;
                                         this.splashDamage = 24f;
-                                        this.hitEffect =this.despawnEffect = Fx.blastExplosion;
+                                        this.hitEffect =this.despawnEffect = AzureFx.syreniRocketExplosion;
                                         this.homingPower = 0.2f;
                                         this.lightningDamage = 10f;
                                         this.lightning = 3;
@@ -249,7 +249,7 @@ public class AzureUnitTypes implements ContentList {
                         }
                     },
 
-                new Weapon("naz-syreni-cannon"){{
+                new Weapon("azure-flare-tech-syreni-cannon"){{
                 reload = 110f;
                 cooldownTime = 90f;
                 mirror = false;

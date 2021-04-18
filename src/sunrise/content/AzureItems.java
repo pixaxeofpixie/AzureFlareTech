@@ -10,16 +10,16 @@ static {
         Items.class.isArray();
     }
 
-        public static Item  mythrylium;
+        public static Item  azurite;
 
         public void load(){
-            mythrylium = new Item("mythrylium") {
+            azurite = new Item("azurite") {
                 {
-                this.localizedName = "Mythrylium";
-                this.description = "Little bit radioactive and heavy resource, uses in powerful armor for units and defense.";
+                this.localizedName = "Azurite";
+                this.description = "Shiny and heavy resource.";
                 this.hardness = 4;
                 this.cost = 1;
-                this.radioactivity = 0.2f;
+                this.radioactivity = 0.0f;
                 this.color = Color.valueOf("AA2F2A");
                 }
             };
