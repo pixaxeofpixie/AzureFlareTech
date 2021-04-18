@@ -5,7 +5,7 @@ Java mod with new content
 
 ## TO DO
 - New turret
-- Some unit from "Syreni" branch
+- Naval units branch
 - Change Morning Star attack
 
 
